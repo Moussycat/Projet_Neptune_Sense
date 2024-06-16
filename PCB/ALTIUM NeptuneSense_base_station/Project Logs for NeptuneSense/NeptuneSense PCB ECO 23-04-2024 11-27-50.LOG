@@ -1,0 +1,18 @@
+Change Component Designator: OldDesignator=D? NewDesignator=D2_3
+Add Component: Footprint Not Found SOP50P490X110-10N
+Add Pin To Net: Unknown Pin: Pin U1_7-1
+Add Pin To Net: Unknown Pin: Pin U1_7-2
+Add Pin To Net: Unknown Pin: Pin U1_7-5
+Add Pin To Net: Unknown Pin: Pin U1_7-6
+Add Pin To Net: Unknown Pin: Pin U1_7-10
+Add Pin To Net: Unknown Pin: Pin U2_1-1
+Add Pin To Net: Unknown Pin: Pin U2_1-6
+Add Pin To Net: Unknown Pin: Pin U2_1-7
+Add Pin To Net: Unknown Pin: Pin U2_1-12
+Add Pin To Net: Unknown Pin: Pin U2_1-13
+Add Pin To Net: Unknown Pin: Pin U2_1-18
+Add Pin To Net: Unknown Pin: Pin U2_1-19
+Add Pin To Net: Unknown Pin: Pin U2_1-24
+Added Pin To Net: NetName=NetD2_3_A Pin=D2_3-A
+Added Net: Name=NetD2_3_A
+Add Class Member: Failed to add class member : Component U1_7 MCP73833-GPI/UN

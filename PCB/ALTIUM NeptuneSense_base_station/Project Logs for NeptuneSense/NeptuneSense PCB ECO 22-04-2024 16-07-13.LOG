@@ -1,0 +1,19 @@
+Add Component: Footprint Not Found SOT229P700X180-4N
+Add Component: Footprint Not Found SOT229P700X180-4N
+Add Component: Footprint Not Found SOP50P490X110-10N
+Add Pin To Net: Unknown Pin: Pin U2-1
+Add Pin To Net: Unknown Pin: Pin U2-2
+Add Pin To Net: Unknown Pin: Pin U2-3
+Add Pin To Net: Unknown Pin: Pin U2_5-1
+Add Pin To Net: Unknown Pin: Pin U2_5-2
+Add Pin To Net: Unknown Pin: Pin U2_5-3
+Add Pin To Net: Unknown Pin: Pin U7-1
+Add Pin To Net: Unknown Pin: Pin U7-2
+Add Pin To Net: Unknown Pin: Pin U7-5
+Add Pin To Net: Unknown Pin: Pin U7-6
+Add Pin To Net: Unknown Pin: Pin U7-10
+Add Class Member: Failed to add class member : Component U2_5 AMS1117-3.3
+Add Class Member: Failed to add class member : Component U2 AMS1117-3.3
+Add Class Member: Failed to add class member : Component U7 MCP73833-GPI/UN
+Added Room: Name=base_station
+Added Room: Name=NeptuneSense

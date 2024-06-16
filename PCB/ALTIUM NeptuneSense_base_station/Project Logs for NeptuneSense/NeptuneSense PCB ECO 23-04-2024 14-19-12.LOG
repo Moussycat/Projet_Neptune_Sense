@@ -1,0 +1,39 @@
+Change Component Footprint: Designator=U2_1 Old Footprint=USB New Footprint=USB
+Change Component Footprint: Designator=U1_8 Old Footprint=USB New Footprint=SOP65P640X120-8N
+Change Component Comment : Designator=U2_1 Old Comment=USB New Comment=*
+Change Component Comment : Designator=U1_8 Old Comment=USB_C New Comment=SPV1040T
+Change Managed Component Library Link : Designator=U1_8 Old VaultGUID=4469528B-4F43-4A77-823B-FB7CFBEEB0DF New VaultGUID=4469528B-4F43-4A77-823B-FB7CFBEEB0DF Old ItemGUID=8FEFBF86-B1AC-4BA1-987F-89A198739279 New ItemGUID=C694D3AC-119F-4F15-B93A-1FB542F498E5 Old RevisionGUID=2B3F85EC-69C7-42EF-BC67-325D403B9C44 New RevisionGUID=3869A6F7-A8CA-4F46-85F3-40B470BD79EB
+Change Managed Component Library Link : Designator=U2_1 Old VaultGUID=4469528B-4F43-4A77-823B-FB7CFBEEB0DF New VaultGUID= Old ItemGUID=8FEFBF86-B1AC-4BA1-987F-89A198739279 New ItemGUID= Old RevisionGUID=2B3F85EC-69C7-42EF-BC67-325D403B9C44 New RevisionGUID=
+Change component parameters: Designator = "U1_8" ("U1_8"); Footprint = "USB"; UniqueID = "\TZPYYAQC" ("\TZPYYAQC")
+Change component parameters (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Component Type"; Value = "Standard"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Design Item ID"; Value = "SPV1040T"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "STMicroelectronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "SPV1040T"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "TSSOP-8 STMicroelectronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pin Count"; Value = "8"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/SPV1040T/STMicroelectronics/view-part/480076/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Source"; Value = "SnapEDAsch.SchLib"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "U2_1" ("U2_1"); Footprint = "USB"; UniqueID = "\XWYMFFWL" ("\XWYMFFWL")
+Added Component: Designator=J1_1(BORNIER2_A_VIS)
+Add component (AddParameter): Name = "Design Item ID"; Value = "BORNIER2_DROIT_A VIS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Source"; Value = "connecteurs.SchLib"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "BORNIER2_D"; VariantName = "[No Variations]"
+Added Component: Designator=U1_5(USB)
+Added Pin To Net: NetName=GND Pin=U1_8-2
+Added Pin To Net: NetName=GND Pin=U2_1-A1
+Added Pin To Net: NetName=NetD2_3_A Pin=U2_1-A4
+Added Pin To Net: NetName=D+ Pin=U2_1-A6
+Added Pin To Net: NetName=D- Pin=U2_1-A7
+Added Pin To Net: NetName=NetD2_3_A Pin=U2_1-A9
+Added Pin To Net: NetName=GND Pin=U2_1-A12
+Added Pin To Net: NetName=GND Pin=U2_1-B1
+Added Pin To Net: NetName=NetD2_3_A Pin=U2_1-B4
+Added Pin To Net: NetName=D+ Pin=U2_1-B6
+Added Pin To Net: NetName=D- Pin=U2_1-B7
+Added Pin To Net: NetName=NetD2_3_A Pin=U2_1-B9
+Added Pin To Net: NetName=GND Pin=U2_1-B12
+Added Member To Class: ClassName=NeptuneSense Member=Component J1_1 BORNIER2_DROIT_A VIS
+Added Member To Class: ClassName=NeptuneSense Member=Component U1_5 *

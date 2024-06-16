@@ -1,0 +1,8 @@
+Added Component: Designator=*(ECRAN_TFT_2.4_TACTILE)
+Added Pin To Net: NetName=NetU2_2_13 Pin=U2_2-13
+Added Pin To Net: NetName=NetU2_2_13 Pin=U2_2-23
+Added Pin To Net: NetName=NetU2_2_13 Pin=U2_2-27
+Added Pin To Net: NetName=NetU2_2_13 Pin=U2_2-28
+Added Pin To Net: NetName=NetU2_2_13 Pin=U2_2-30
+Added Net: Name=NetU2_2_13
+Added Member To Class: ClassName=base_station Member=Component * ECRAN_TFT_2.4_TACTILE

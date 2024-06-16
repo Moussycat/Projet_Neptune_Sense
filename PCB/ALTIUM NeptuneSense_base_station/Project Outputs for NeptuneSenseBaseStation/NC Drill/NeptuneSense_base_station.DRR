@@ -1,0 +1,24 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: NeptuneSense_base_station.PcbDoc   06/05/2024  22:19:03
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : NeptuneSense_base_station-RoundHoles.TXT
+ASCII SlotHoles File : NeptuneSense_base_station-SlotHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      0.2mm (8mil)                                              Round             12        PTH        16.96mm (0.67inch)
+T2      0.4mm (16mil)                                             Round             12        PTH        9.62mm (0.38inch)
+T3      0.55mm (22mil)                                            Slot              4         PTH        38.00mm (1.50inch)
+T4      0.711mm (28mil)                                           Round             27        PTH        217.05mm (8.55inch)
+T5      1.016mm (40mil)                                           Round             18        PTH        114.88mm (4.52inch)
+T6      1.3mm (51mil)                                             Round             4         PTH        47.77mm (1.88inch)
+T7      3mm (118mil)                                              Round             4         PTH        226.98mm (8.94inch)
+T8      3.175mm (125mil)                                          Round             4         PTH        150.07mm (5.91inch)
+T9      0.653mm (26mil)                                           Slot              1         NPTH       0.30mm (0.01inch)
+T10     0.675mm (27mil)                                           Round             1         NPTH       0.00mm (0.00inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              87
+
+Total Processing Time (hh:mm:ss) : 00:00:01

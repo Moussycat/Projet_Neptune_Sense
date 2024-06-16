@@ -1,0 +1,13 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : PCB Document [NeptuneSense_outdoor_station.PcbDoc]
+   Generated File[NeptuneSense_outdoor_station-RoundHoles.TXT]
+   Generated File[NeptuneSense_outdoor_station-SlotHoles.TXT]
+   Generated File[NeptuneSense_outdoor_station.LDP]
+   Generated File[NeptuneSense_outdoor_station.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 17:49:52 On 06/05/2024

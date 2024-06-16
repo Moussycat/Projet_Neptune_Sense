@@ -1,0 +1,31 @@
+Removed Pin From Net: NetName=GND Pin=U1_2-1
+Removed Pin From Net: NetName=+3.3V Pin=U1_2-2
+Removed Pin From Net: NetName=+5V Pin=U1_2-3
+Removed Member From Class: ClassName=NeptuneSense Member=U1_2
+Added Component: Designator=U?(SOT229P700X180-4N)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component Type"; Value = "Standard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Design Item ID"; Value = "AMS1117-3.3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "ams AG"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "AMS1117-3.3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOT-223 Seeed Technology"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Count"; Value = "3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/AMS1117-3.3/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/AMS1117-3.3/AMS+AG/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Source"; Value = "AMS1117-3.3.SchLib"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Add Pin To Net: Unknown Pin: Pin U2_1-1
+Add Pin To Net: Unknown Pin: Pin U2_1-6
+Add Pin To Net: Unknown Pin: Pin U2_1-7
+Add Pin To Net: Unknown Pin: Pin U2_1-9
+Add Pin To Net: Unknown Pin: Pin U2_1-12
+Add Pin To Net: Unknown Pin: Pin U2_1-13
+Add Pin To Net: Unknown Pin: Pin U2_1-16
+Add Pin To Net: Unknown Pin: Pin U2_1-18
+Add Pin To Net: Unknown Pin: Pin U2_1-19
+Add Pin To Net: Unknown Pin: Pin U2_1-24
+Added Pin To Net: NetName=GND Pin=U?-1
+Added Pin To Net: NetName=+3.3V Pin=U?-2
+Added Pin To Net: NetName=+5V Pin=U?-3
+Added Member To Class: ClassName=NeptuneSense Member=Component U? AMS1117-3.3

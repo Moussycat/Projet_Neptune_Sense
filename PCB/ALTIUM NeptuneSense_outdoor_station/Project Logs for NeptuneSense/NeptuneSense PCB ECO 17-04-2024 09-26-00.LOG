@@ -1,0 +1,9 @@
+Added Component: Designator=U(SOP50P490X110-10N)
+Add component (AddParameter): Name = "Digi-Key_Part_Number"; Value = "MCP73833-GPI/UN-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Purchase_URL"; Value = "https://www.digikey.rs/product-detail/en/microchip-technology/MCP73833-GPI-UN/MCP73833-GPI-UN-ND/1626620?utm_source=snapeda&utm_medium=aggregator&utm_campaign=symbol"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Microchip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "MCP73833-GPI/UN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "MSOP-10 Microchip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/MCP73833-GPI/UN/Microchip/view-part/526145/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Member To Class: ClassName=NeptuneSense Member=Component U MCP73833-GPI/UN

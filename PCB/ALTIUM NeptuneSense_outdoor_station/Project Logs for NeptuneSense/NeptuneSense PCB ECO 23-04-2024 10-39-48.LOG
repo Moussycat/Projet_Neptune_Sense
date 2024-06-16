@@ -1,0 +1,85 @@
+Added Component: Designator=C1_5(CONDENSATEUR_CMS_0805)
+Add component (AddParameter): Name = "Type"; Value = "CMS_0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1µF"; VariantName = "[No Variations]"
+Added Component: Designator=C2_5(CONDENSATEUR_CMS_0805)
+Add component (AddParameter): Name = "Type"; Value = "CMS_0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10µF"; VariantName = "[No Variations]"
+Added Component: Designator=C2_6(CONDENSATEUR_CMS_0805)
+Add component (AddParameter): Name = "Type"; Value = "CMS_0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Added Component: Designator=PT2_Vbus(POINT_TEST)
+Add component (AddParameter): Name = "Design Item ID"; Value = "POINT_TEST"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Source"; Value = "connecteurs.SchLib"; VariantName = "[No Variations]"
+Add Component: Footprint Not Found SOP50P490X110-10N
+Added Component: Designator=U?(QFN50P500X500X80-29N)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component Type"; Value = "Standard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Design Item ID"; Value = "CP2102N-A02-GQFN28"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Silicon Labs"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "CP2102N-A02-GQFN28"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "WFQFN-28 Silicon Labs"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Count"; Value = "29"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/CP2102N-A02-GQFN28/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/CP2102N-A02-GQFN28/Silicon+Labs/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Source"; Value = "CP2102N-A02-GQFN28.SchLib"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C1_5-1
+Added Pin To Net: NetName=+5V Pin=C1_5-2
+Added Pin To Net: NetName=GND Pin=C2_5-1
+Added Pin To Net: NetName=+3.3V Pin=C2_5-2
+Added Pin To Net: NetName=GND Pin=C2_6-1
+Added Pin To Net: NetName=+3.3V Pin=C2_6-2
+Added Pin To Net: NetName=GND Pin=D2_1-2
+Added Pin To Net: NetName=GND Pin=D2_2-2
+Add Pin To Net: Unknown Pin: Pin U1_7-1
+Add Pin To Net: Unknown Pin: Pin U1_7-2
+Add Pin To Net: Unknown Pin: Pin U1_7-5
+Add Pin To Net: Unknown Pin: Pin U1_7-6
+Add Pin To Net: Unknown Pin: Pin U1_7-10
+Add Pin To Net: Unknown Pin: Pin U2_1-1
+Add Pin To Net: Unknown Pin: Pin U2_1-12
+Add Pin To Net: Unknown Pin: Pin U2_1-13
+Add Pin To Net: Unknown Pin: Pin U2_1-24
+Added Pin To Net: NetName=GND Pin=U2_2-1
+Added Pin To Net: NetName=+3.3V Pin=U2_2-2
+Added Pin To Net: NetName=GND Pin=U2_2-15
+Added Pin To Net: NetName=GND Pin=U2_2-38
+Added Pin To Net: NetName=GND Pin=U2_2-39_1
+Added Pin To Net: NetName=GND Pin=U2_2-39_2
+Added Pin To Net: NetName=GND Pin=U2_2-39_3
+Added Pin To Net: NetName=GND Pin=U2_2-39_4
+Added Pin To Net: NetName=GND Pin=U2_2-39_5
+Added Pin To Net: NetName=GND Pin=U2_2-39_6
+Added Pin To Net: NetName=GND Pin=U2_2-39_7
+Added Pin To Net: NetName=GND Pin=U2_2-39_8
+Added Pin To Net: NetName=GND Pin=U2_2-39_9
+Added Pin To Net: NetName=GND Pin=U2_2-39_10
+Added Pin To Net: NetName=GND Pin=U2_2-39_11
+Added Pin To Net: NetName=GND Pin=U2_2-39_12
+Added Pin To Net: NetName=GND Pin=U2_2-39_13
+Added Pin To Net: NetName=GND Pin=U2_2-39_14
+Added Pin To Net: NetName=GND Pin=U2_2-39_15
+Added Pin To Net: NetName=GND Pin=U2_2-39_16
+Added Pin To Net: NetName=GND Pin=U2_2-39_17
+Added Pin To Net: NetName=GND Pin=U2_2-39_18
+Added Pin To Net: NetName=GND Pin=U2_2-39_19
+Added Pin To Net: NetName=GND Pin=U2_2-39_20
+Added Pin To Net: NetName=GND Pin=U2_2-39_21
+Added Pin To Net: NetName=+5V Pin=U2_3-1
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(255, 110, 110)
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(110, 255, 110)
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(0, 190, 0)
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(110, 110, 255)
+Added Net: Name=D+
+Added Net: Name=D-
+Added Pin To Net: NetName=Vbus Pin=PT2_Vbus-1
+Added Pin To Net: NetName=Vbus Pin=R2_1-2
+Added Pin To Net: NetName=Vbus Pin=U2_4-1
+Added Net: Name=Vbus
+Added Member To Class: ClassName=NeptuneSense Member=Component C1_5 CMS_0805
+Added Member To Class: ClassName=base_station Member=Component C2_5 CMS_0805
+Added Member To Class: ClassName=base_station Member=Component C2_6 CMS_0805
+Added Member To Class: ClassName=base_station Member=Component PT2_Vbus POINT_TEST
+Add Class Member: Failed to add class member : Component U1_7 MCP73833-GPI/UN
+Added Member To Class: ClassName=base_station Member=Component U? CP2102N-A02-GQFN28

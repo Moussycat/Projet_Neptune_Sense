@@ -1,0 +1,85 @@
+Removed Member From Class: ClassName=base_station Member=*
+Added Component: Designator=C2_1(CONDENSATEUR_CMS_0805)
+Add component (AddParameter): Name = "Type"; Value = "CMS_0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10µF"; VariantName = "[No Variations]"
+Added Component: Designator=C2_2(CONDENSATEUR_CMS_0805)
+Add component (AddParameter): Name = "Type"; Value = "CMS_0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10µF"; VariantName = "[No Variations]"
+Added Component: Designator=C2_3(CONDENSATEUR_CMS_0805)
+Add component (AddParameter): Name = "Type"; Value = "CMS_0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10µF"; VariantName = "[No Variations]"
+Added Component: Designator=C2_4(CONDENSATEUR_CMS_0805)
+Add component (AddParameter): Name = "Type"; Value = "CMS_0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22µF"; VariantName = "[No Variations]"
+Added Component: Designator=D2_1(LED_CMS_0805)
+Add component (AddParameter): Name = "Type"; Value = "CMS_0805"; VariantName = "[No Variations]"
+Added Component: Designator=D2_2(LED_CMS_0805)
+Add component (AddParameter): Name = "Type"; Value = "CMS_0805"; VariantName = "[No Variations]"
+Added Component: Designator=L2_1(INDUCTANCE_CMS_0805)
+Add component (AddParameter): Name = "Type"; Value = "CMS_0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1µH"; VariantName = "[No Variations]"
+Added Component: Designator=R2_1(RESISTANCE_CMS_0805)
+Add component (AddParameter): Name = "Type"; Value = "CMS_0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100K"; VariantName = "[No Variations]"
+Added Component: Designator=R2_2(RESISTANCE_CMS_0805)
+Add component (AddParameter): Name = "Type"; Value = "CMS_0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1M"; VariantName = "[No Variations]"
+Added Component: Designator=R2_3(RESISTANCE_CMS_0805)
+Add component (AddParameter): Name = "Type"; Value = "CMS_0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "137K"; VariantName = "[No Variations]"
+Added Component: Designator=U2_3(ECRAN_TFT_2.4_TACTILE)
+Added Component: Designator=U2_4(SOT65P280X100-8N)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component Type"; Value = "Standard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Design Item ID"; Value = "MP3414AGJ-Z"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Monolithic Power"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "MP3414AGJ-Z"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "TSOT-23 MPS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Count"; Value = "8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/MP3414AGJ-Z/Monolithic%20Power%20Systems%20Inc./view-part/1062936/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Source"; Value = "SnapEDAsch.SchLib"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Add Component: Footprint Not Found SOT229P700X180-4N
+Added Pin To Net: NetName=GND Pin=C2_1-1
+Added Pin To Net: NetName=GND Pin=C2_2-1
+Added Pin To Net: NetName=+5V Pin=C2_2-2
+Added Pin To Net: NetName=+5V Pin=C2_3-1
+Added Pin To Net: NetName=GND Pin=C2_3-2
+Added Pin To Net: NetName=GND Pin=C2_4-1
+Added Pin To Net: NetName=+3.3V Pin=C2_4-2
+Added Pin To Net: NetName=+BAT Pin=R2_1-2
+Added Pin To Net: NetName=+5V Pin=R2_2-2
+Added Pin To Net: NetName=GND Pin=R2_3-1
+Added Pin To Net: NetName=+BAT Pin=U2_4-1
+Added Pin To Net: NetName=+5V Pin=U2_4-2
+Added Pin To Net: NetName=GND Pin=U2_4-4
+Added Pin To Net: NetName=GND Pin=U2_4-6
+Add Pin To Net: Unknown Pin: Pin U2_5-1
+Add Pin To Net: Unknown Pin: Pin U2_5-2
+Add Pin To Net: Unknown Pin: Pin U2_5-3
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(110, 110, 255)
+Added Pin To Net: NetName=NetL2_1_1 Pin=L2_1-1
+Added Pin To Net: NetName=NetL2_1_1 Pin=U2_4-3
+Added Net: Name=NetL2_1_1
+Added Pin To Net: NetName=NetR2_1_1 Pin=R2_1-1
+Added Pin To Net: NetName=NetR2_1_1 Pin=U2_4-8
+Added Net: Name=NetR2_1_1
+Added Pin To Net: NetName=NetR2_2_1 Pin=R2_2-1
+Added Pin To Net: NetName=NetR2_2_1 Pin=R2_3-2
+Added Net: Name=NetR2_2_1
+Added Member To Class: ClassName=base_station Member=Component C2_1 CMS_0805
+Added Member To Class: ClassName=base_station Member=Component C2_2 CMS_0805
+Added Member To Class: ClassName=base_station Member=Component C2_3 CMS_0805
+Added Member To Class: ClassName=base_station Member=Component C2_4 CMS_0805
+Added Member To Class: ClassName=base_station Member=Component D2_1 LED_CMS_0805
+Added Member To Class: ClassName=base_station Member=Component D2_2 LED_CMS_0805
+Added Member To Class: ClassName=base_station Member=Component L2_1 INDUCTANCE_CMS_0805
+Added Member To Class: ClassName=base_station Member=Component R2_1 RESISTANCE_CMS_0805
+Added Member To Class: ClassName=base_station Member=Component R2_2 RESISTANCE_CMS_0805
+Added Member To Class: ClassName=base_station Member=Component R2_3 RESISTANCE_CMS_0805
+Added Member To Class: ClassName=base_station Member=Component U2_3 ECRAN_TFT_2.4_TACTILE
+Added Member To Class: ClassName=base_station Member=Component U2_4 MP3414AGJ-Z
+Add Class Member: Failed to add class member : Component U2_5 AMS1117-3.3
+Added Room: Name=base_station
+Added Room: Name=NeptuneSense

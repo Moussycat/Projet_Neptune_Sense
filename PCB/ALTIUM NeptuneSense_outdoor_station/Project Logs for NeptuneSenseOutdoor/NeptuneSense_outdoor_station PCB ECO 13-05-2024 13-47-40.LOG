@@ -1,0 +1,31 @@
+Removed Pin From Net: NetName=+BAT Pin=C1_6-2
+Removed Pin From Net: NetName=GND Pin=D1_1-A
+Removed Pin From Net: NetName=GND Pin=D1_2-A
+Removed Pin From Net: NetName=+CBAT Pin=J1_2-2
+Removed Pin From Net: NetName=+CBAT Pin=R1_4-2
+Removed Pin From Net: NetName=+CBAT Pin=R1_7-2
+Removed Pin From Net: NetName=GND Pin=U1_6-7
+Removed Pin From Net: NetName=+BAT Pin=U1_7-10
+Added Component: Designator=R1_29(RESISTANCE_CMS_0805)
+Add component (AddParameter): Name = "Type"; Value = "CMS_0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0.02"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+BAT Pin=J1_2-2
+Added Pin To Net: NetName=GND Pin=R1_29-1
+Added Pin To Net: NetName=+CBAT Pin=U1_5-A4
+Added Pin To Net: NetName=+CBAT Pin=U1_5-A9
+Added Pin To Net: NetName=+CBAT Pin=U1_5-B4
+Added Pin To Net: NetName=+CBAT Pin=U1_5-B9
+Change Net Name : Old Net Name=+CBAT New Net Name=Vbus
+Added Pin To Net: NetName=+CBAT Pin=C1_6-2
+Added Pin To Net: NetName=+CBAT Pin=J1_2-1
+Added Pin To Net: NetName=+CBAT Pin=R1_4-2
+Added Pin To Net: NetName=+CBAT Pin=R1_7-2
+Added Pin To Net: NetName=+CBAT Pin=R1_23-1
+Added Pin To Net: NetName=+CBAT Pin=U1_7-10
+Added Net: Name=+CBAT
+Added Pin To Net: NetName=NetD1_1_A Pin=D1_1-A
+Added Pin To Net: NetName=NetD1_1_A Pin=D1_2-A
+Added Pin To Net: NetName=NetD1_1_A Pin=R1_29-2
+Added Pin To Net: NetName=NetD1_1_A Pin=U1_6-7
+Added Net: Name=NetD1_1_A
+Added Member To Class: ClassName=NeptuneSense_outdoor_station Member=Component R1_29 RESISTANCE_CMS_0805

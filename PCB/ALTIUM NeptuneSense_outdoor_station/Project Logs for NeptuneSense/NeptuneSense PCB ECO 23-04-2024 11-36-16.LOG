@@ -1,0 +1,13 @@
+Removed Member From Class: ClassName=base_station Member=U2_1
+Add Pin To Net: Unknown Pin: Pin U?-1
+Add Pin To Net: Unknown Pin: Pin U?-6
+Add Pin To Net: Unknown Pin: Pin U?-7
+Add Pin To Net: Unknown Pin: Pin U?-9
+Add Pin To Net: Unknown Pin: Pin U?-12
+Add Pin To Net: Unknown Pin: Pin U?-13
+Add Pin To Net: Unknown Pin: Pin U?-16
+Add Pin To Net: Unknown Pin: Pin U?-18
+Add Pin To Net: Unknown Pin: Pin U?-19
+Add Pin To Net: Unknown Pin: Pin U?-24
+Added Member To Class: ClassName=NeptuneSense Member=Component U1_2 AMS1117-3.3
+Add Class Member: Failed to add class member : Component U? USB

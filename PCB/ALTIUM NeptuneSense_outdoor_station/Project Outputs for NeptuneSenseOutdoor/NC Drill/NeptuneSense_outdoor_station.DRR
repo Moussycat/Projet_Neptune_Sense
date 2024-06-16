@@ -1,0 +1,26 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: NeptuneSense_outdoor_station.PcbDoc   06/05/2024  17:49:52
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : NeptuneSense_outdoor_station-RoundHoles.TXT
+ASCII SlotHoles File : NeptuneSense_outdoor_station-SlotHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      0.4mm (16mil)                                             Round             12        PTH        13.62mm (0.54inch)
+T2      0.55mm (22mil)                                            Slot              4         PTH        36.56mm (1.44inch)
+T3      0.71mm (28mil)                                            Round             3         PTH        5.08mm (0.20inch)
+T4      0.711mm (28mil)                                           Round             46        PTH        394.44mm (15.53inch)
+T5      0.8mm (31mil)                                             Round             6         PTH        71.11mm (2.80inch)
+T6      0.83mm (33mil)                                            Round             3         PTH        2.54mm (0.10inch)
+T7      0.9mm (35mil)                                             Round             10        PTH        22.86mm (0.90inch)
+T8      1.3mm (51mil)                                             Round             6         PTH        82.28mm (3.24inch)
+T9      1.5mm (59mil)                                             Round             20        PTH        221.69mm (8.73inch)
+T10     2.5mm (98mil)                                             Round             4         PTH        168.83mm (6.65inch)
+T11     0.653mm (26mil)                                           Slot              1         NPTH       0.30mm (0.01inch)
+T12     0.675mm (27mil)                                           Round             1         NPTH       0.00mm (0.00inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              116
+
+Total Processing Time (hh:mm:ss) : 00:00:00

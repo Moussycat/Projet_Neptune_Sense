@@ -1,0 +1,8 @@
+Added Component: Designator=J1_9(BARRETTE_5X2_F_D)
+Add component (AddParameter): Name = "Type"; Value = "F_D_5X2"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+3.3V Pin=J1_9-2
+Added Pin To Net: NetName=SWDIO Pin=J1_9-4
+Added Pin To Net: NetName=SWCLK Pin=J1_9-6
+Added Pin To Net: NetName=GND Pin=J1_9-8
+Added Pin To Net: NetName=P_OUT Pin=U1_1-7
+Added Member To Class: ClassName=NeptuneSense_outdoor_station Member=Component J1_9 BARRETTE_5 CONTACTS_2 RANGEES_FEMELLE_DROITE

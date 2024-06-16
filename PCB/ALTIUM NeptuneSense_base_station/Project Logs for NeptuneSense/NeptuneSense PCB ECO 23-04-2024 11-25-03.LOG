@@ -1,0 +1,102 @@
+Removed Pin From Net: NetName=+5V Pin=U2_3-1
+Change Component Designator: OldDesignator=U? NewDesignator=U2_6
+Change component parameters: Designator = "R1_12" ("R1_12"); Footprint = "RESISTANCE_CMS_0805"; UniqueID = "\EOQCAIWH" ("\EOQCAIWH")
+Change component parameters (AddParameter): Name = "Type"; Value = "CMS_0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "20k"; VariantName = "[No Variations]"
+Added Component: Designator=C2_7(CONDENSATEUR_CMS_0805)
+Add component (AddParameter): Name = "Type"; Value = "CMS_0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Added Component: Designator=D?(DIOAD928W47L399D179)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/BZX55C3V3/Taiwan+Semiconductor/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component Type"; Value = "Standard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Design Item ID"; Value = "BZX55C3V3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Taiwan Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "BZX55C3V3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "DO-35-2 Taiwan Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Count"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/BZX55C3V3/Taiwan+Semiconductor/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Source"; Value = "BZX55C3V3.SchLib"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R2_4(RESISTANCE_CMS_0805)
+Add component (AddParameter): Name = "Type"; Value = "CMS_0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1k"; VariantName = "[No Variations]"
+Added Component: Designator=R2_5(RESISTANCE_CMS_0805)
+Add component (AddParameter): Name = "Type"; Value = "CMS_0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1k"; VariantName = "[No Variations]"
+Added Component: Designator=R2_6(RESISTANCE_CMS_0805)
+Add component (AddParameter): Name = "Type"; Value = "CMS_0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Add Component: Footprint Not Found SOP50P490X110-10N
+Added Pin To Net: NetName=GND Pin=C2_7-1
+Added Pin To Net: NetName=+3.3V Pin=C2_7-2
+Added Pin To Net: NetName=Vbus Pin=D?-C
+Added Pin To Net: NetName=+3.3V Pin=R2_4-2
+Added Pin To Net: NetName=+3.3V Pin=R2_5-1
+Added Pin To Net: NetName=GND Pin=R2_6-1
+Add Pin To Net: Unknown Pin: Pin U1_7-1
+Add Pin To Net: Unknown Pin: Pin U1_7-2
+Add Pin To Net: Unknown Pin: Pin U1_7-5
+Add Pin To Net: Unknown Pin: Pin U1_7-6
+Add Pin To Net: Unknown Pin: Pin U1_7-10
+Add Pin To Net: Unknown Pin: Pin U2_1-1
+Add Pin To Net: Unknown Pin: Pin U2_1-6
+Add Pin To Net: Unknown Pin: Pin U2_1-7
+Add Pin To Net: Unknown Pin: Pin U2_1-12
+Add Pin To Net: Unknown Pin: Pin U2_1-13
+Add Pin To Net: Unknown Pin: Pin U2_1-18
+Add Pin To Net: Unknown Pin: Pin U2_1-19
+Add Pin To Net: Unknown Pin: Pin U2_1-24
+Added Pin To Net: NetName=+3.3V Pin=U2_3-1
+Added Pin To Net: NetName=GND Pin=U2_3-2
+Added Pin To Net: NetName=+3.3V Pin=U2_3-8
+Added Pin To Net: NetName=GND Pin=U2_6-3
+Added Pin To Net: NetName=D+ Pin=U2_6-4
+Added Pin To Net: NetName=D- Pin=U2_6-5
+Added Pin To Net: NetName=+3.3V Pin=U2_6-6
+Added Pin To Net: NetName=+3.3V Pin=U2_6-7
+Added Pin To Net: NetName=Vbus Pin=U2_6-8
+Added Pin To Net: NetName=+3.3V Pin=U2_6-9
+Added Pin To Net: NetName=GND Pin=U2_6-29
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(255, 110, 255)
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(255, 195, 189)
+Added Pin To Net: NetName=CS_TFT Pin=U2_2-23
+Added Pin To Net: NetName=CS_TFT Pin=U2_3-3
+Added Net: Name=CS_TFT
+Added Pin To Net: NetName=DC_TFT Pin=U2_2-24
+Added Pin To Net: NetName=DC_TFT Pin=U2_3-5
+Added Net: Name=DC_TFT
+Added Pin To Net: NetName=MOSI_TFT Pin=U2_2-37
+Added Pin To Net: NetName=MOSI_TFT Pin=U2_3-6
+Added Net: Name=MOSI_TFT
+Added Pin To Net: NetName=NetD2_1_1 Pin=D2_1-1
+Added Pin To Net: NetName=NetD2_1_1 Pin=U2_2-11
+Added Net: Name=NetD2_1_1
+Added Pin To Net: NetName=NetD2_2_1 Pin=D2_2-1
+Added Pin To Net: NetName=NetD2_2_1 Pin=U2_2-12
+Added Net: Name=NetD2_2_1
+Added Pin To Net: NetName=NetD?_A Pin=D?-A
+Added Net: Name=NetD?_A
+Added Pin To Net: NetName=NetR2_4_1 Pin=R2_4-1
+Added Pin To Net: NetName=NetR2_4_1 Pin=R2_5-2
+Added Net: Name=NetR2_4_1
+Added Pin To Net: NetName=NetR2_6_2 Pin=R2_6-2
+Added Pin To Net: NetName=NetR2_6_2 Pin=U2_6-11
+Added Net: Name=NetR2_6_2
+Added Pin To Net: NetName=RESET_TFT Pin=U2_2-26
+Added Pin To Net: NetName=RESET_TFT Pin=U2_3-4
+Added Net: Name=RESET_TFT
+Added Pin To Net: NetName=Rx Pin=U2_2-34
+Added Pin To Net: NetName=Rx Pin=U2_6-25
+Added Net: Name=Rx
+Added Pin To Net: NetName=SCK_TFT Pin=U2_2-30
+Added Pin To Net: NetName=SCK_TFT Pin=U2_3-7
+Added Net: Name=SCK_TFT
+Added Pin To Net: NetName=Tx Pin=U2_2-35
+Added Pin To Net: NetName=Tx Pin=U2_6-26
+Added Net: Name=Tx
+Added Member To Class: ClassName=base_station Member=Component C2_7 CMS_0805
+Added Member To Class: ClassName=base_station Member=Component D? BZX55C3V3
+Added Member To Class: ClassName=base_station Member=Component R2_4 RESISTANCE_CMS_0805
+Added Member To Class: ClassName=base_station Member=Component R2_5 RESISTANCE_CMS_0805
+Added Member To Class: ClassName=base_station Member=Component R2_6 RESISTANCE_CMS_0805
+Add Class Member: Failed to add class member : Component U1_7 MCP73833-GPI/UN

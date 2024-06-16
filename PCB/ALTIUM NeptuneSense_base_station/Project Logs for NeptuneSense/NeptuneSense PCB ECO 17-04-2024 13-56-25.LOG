@@ -1,0 +1,3 @@
+Change Component Designator: OldDesignator=U2 NewDesignator=U7
+Added Member To Class: ClassName=NeptuneSense Member=Component U7 MCP73833-GPI/UN
+Add Class Member: Failed to add class member : Component U8 USB

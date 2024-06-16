@@ -1,0 +1,33 @@
+Added Component: Designator=D?(DIOAD928W47L399D179)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/BZX55C3V3/Taiwan+Semiconductor/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component Type"; Value = "Standard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Design Item ID"; Value = "BZX55C3V3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Taiwan Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "BZX55C3V3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "DO-35-2 Taiwan Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Count"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/BZX55C3V3/Taiwan+Semiconductor/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Source"; Value = "BZX55C3V3.SchLib"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J1_2(BORNIER3_A_VIS)
+Add component (AddParameter): Name = "Design Item ID"; Value = "BORNIER3_DROIT_A VIS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Source"; Value = "connecteurs.SchLib"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "BORNIER3_D"; VariantName = "[No Variations]"
+Added Component: Designator=J1_3(BORNIER2_A_VIS)
+Add component (AddParameter): Name = "Design Item ID"; Value = "BORNIER2_DROIT_A VIS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Source"; Value = "connecteurs.SchLib"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "BORNIER2_D"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=Vbus Pin=D?-C
+Added Pin To Net: NetName=GND Pin=U1_5-A1
+Added Pin To Net: NetName=GND Pin=U1_5-A12
+Added Pin To Net: NetName=GND Pin=U1_5-B1
+Added Pin To Net: NetName=GND Pin=U1_5-B12
+Added Pin To Net: NetName=NetD?_A Pin=D?-A
+Added Pin To Net: NetName=NetD?_A Pin=U1_5-A4
+Added Pin To Net: NetName=NetD?_A Pin=U1_5-A9
+Added Pin To Net: NetName=NetD?_A Pin=U1_5-B4
+Added Pin To Net: NetName=NetD?_A Pin=U1_5-B9
+Added Net: Name=NetD?_A
+Added Member To Class: ClassName=NeptuneSense Member=Component D? BZX55C3V3
+Added Member To Class: ClassName=NeptuneSense Member=Component J1_2 BORNIER3_DROIT_A VIS
+Added Member To Class: ClassName=NeptuneSense Member=Component J1_3 BORNIER2_DROIT_A VIS

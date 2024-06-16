@@ -1,0 +1,5 @@
+Added Component: Designator=U8(USB)
+Add component (AddParameter): Name = "Design Item ID"; Value = "USB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Source"; Value = "USB_C_RS_PRO.SchLib"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=NeptuneSense Member=Component U2 AMS1117-3.3
+Added Member To Class: ClassName=NeptuneSense Member=Component U8 USB

@@ -1,0 +1,5 @@
+Added Component: Designator=PT_GND(POINT_TEST)
+Add component (AddParameter): Name = "Design Item ID"; Value = "POINT_TEST"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Source"; Value = "connecteurs.SchLib"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=PT_GND-1
+Added Member To Class: ClassName=base_station Member=Component PT_GND POINT_TEST

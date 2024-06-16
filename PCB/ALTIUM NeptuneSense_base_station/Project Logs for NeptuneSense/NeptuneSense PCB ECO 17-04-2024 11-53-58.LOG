@@ -1,0 +1,52 @@
+Added Component: Designator=C8(CONDENSATEUR_CMS_0805)
+Add component (AddParameter): Name = "Type"; Value = "CMS_0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0,1µF"; VariantName = "[No Variations]"
+Added Component: Designator=C9(CONDENSATEUR_CMS_0805)
+Add component (AddParameter): Name = "Type"; Value = "CMS_0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0,1µF"; VariantName = "[No Variations]"
+Added Component: Designator=R9(RESISTANCE_CMS_0805)
+Add component (AddParameter): Name = "Type"; Value = "CMS_0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1k"; VariantName = "[No Variations]"
+Added Component: Designator=R10(RESISTANCE_CMS_0805)
+Add component (AddParameter): Name = "Type"; Value = "CMS_0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Added Component: Designator=VR1(TRIM_3296W1103LF)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/3296W1103LF/Bourns/view-part/2487625/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component Type"; Value = "Standard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Design Item ID"; Value = "3296W1103LF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Bourns"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "3296W1103LF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Count"; Value = "3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/3296W1103LF/Bourns/view-part/2487625/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Source"; Value = "3296W1103LF.SchLib"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C8-1
+Added Pin To Net: NetName=GND Pin=C9-1
+Added Pin To Net: NetName=+5V Pin=R9-1
+Added Pin To Net: NetName=GND Pin=R10-2
+Added Pin To Net: NetName=GND Pin=U4-4
+Added Pin To Net: NetName=GND Pin=U4-6
+Added Pin To Net: NetName=GND Pin=U4-7
+Added Pin To Net: NetName=+5V Pin=U4-8
+Added Pin To Net: NetName=GND Pin=U5-2
+Added Pin To Net: NetName=NetC8_2 Pin=C8-2
+Added Pin To Net: NetName=NetC8_2 Pin=R9-2
+Added Pin To Net: NetName=NetC8_2 Pin=U5-1
+Added Pin To Net: NetName=NetC8_2 Pin=U5-3
+Added Net: Name=NetC8_2
+Added Pin To Net: NetName=NetC9_2 Pin=C9-2
+Added Pin To Net: NetName=NetC9_2 Pin=U4-5
+Added Net: Name=NetC9_2
+Added Pin To Net: NetName=NetR10_1 Pin=R10-1
+Added Pin To Net: NetName=NetR10_1 Pin=VR1-2
+Added Pin To Net: NetName=NetR10_1 Pin=VR1-3
+Added Net: Name=NetR10_1
+Added Member To Class: ClassName=NeptuneSense Member=Component C8 CMS_0805
+Added Member To Class: ClassName=NeptuneSense Member=Component C9 CMS_0805
+Added Member To Class: ClassName=NeptuneSense Member=Component R9 RESISTANCE_CMS_0805
+Added Member To Class: ClassName=NeptuneSense Member=Component R10 RESISTANCE_CMS_0805
+Added Member To Class: ClassName=NeptuneSense Member=Component U2 AMS1117-3.3
+Added Member To Class: ClassName=NeptuneSense Member=Component VR1 3296W1103LF

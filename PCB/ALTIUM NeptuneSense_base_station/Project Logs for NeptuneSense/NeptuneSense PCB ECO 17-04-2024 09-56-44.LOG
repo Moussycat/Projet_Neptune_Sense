@@ -1,0 +1,13 @@
+Added Component: Designator=U?(TO92127P520H660-3)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component Type"; Value = "Standard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Design Item ID"; Value = "TL431ILP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "TL431ILP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Count"; Value = "3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Source"; Value = "TL431ILP.SchLib"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Member To Class: ClassName=NeptuneSense Member=Component U? AMS1117-3.3
+Added Member To Class: ClassName=NeptuneSense Member=Component U? TL431ILP
+Added Member To Class: ClassName=NeptuneSense Member=Component U MP3414AGJ-Z

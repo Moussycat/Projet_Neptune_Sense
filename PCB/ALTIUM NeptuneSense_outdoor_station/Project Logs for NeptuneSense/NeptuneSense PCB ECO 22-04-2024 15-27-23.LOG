@@ -1,0 +1,4 @@
+Added Component: Designator=U2_1(USB)
+Add component (AddParameter): Name = "Design Item ID"; Value = "USB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Source"; Value = "USB_C_RS_PRO.SchLib"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=base_station Member=Component U2_1 USB

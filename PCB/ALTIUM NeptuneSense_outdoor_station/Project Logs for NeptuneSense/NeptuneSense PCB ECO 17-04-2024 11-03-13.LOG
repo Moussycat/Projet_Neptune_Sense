@@ -1,0 +1,23 @@
+Change Component Designator: OldDesignator=DS2782 NewDesignator=U6
+Change Component Designator: OldDesignator=MCP73833 NewDesignator=U2
+Change Component Designator: OldDesignator=MP3414 NewDesignator=U3
+Change Component Designator: OldDesignator=TL431ILP NewDesignator=U5
+Change Component Designator: OldDesignator=U? NewDesignator=U2
+Added Component: Designator=U4(SOIC127P599X175-8N)
+Add component (AddParameter): Name = "Availability"; Value = "Warning"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/TLC4502ID/Texas%20Instruments/view-part/1176387/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component Type"; Value = "Standard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Design Item ID"; Value = "TLC4502ID"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "TLC4502ID"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOIC-8 Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Count"; Value = "8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/TLC4502ID/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/TLC4502ID/Texas%20Instruments/view-part/1176387/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Source"; Value = "TLC4502ID.SchLib"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Member To Class: ClassName=NeptuneSense Member=Component U2 AMS1117-3.3
+Added Member To Class: ClassName=NeptuneSense Member=Component U3 MP3414AGJ-Z
+Added Member To Class: ClassName=NeptuneSense Member=Component U4 TLC4502ID
+Added Member To Class: ClassName=NeptuneSense Member=Component U6 DS2782E+T&R
